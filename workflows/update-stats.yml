@@ -1,5 +1,10 @@
 ```yaml
 name: Update GitHub Profile Stats
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
+</p>
 
 on:
   schedule:
