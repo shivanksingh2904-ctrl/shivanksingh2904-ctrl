@@ -137,14 +137,21 @@ A lightweight document Q&A application that searches multiple PDFs and provides 
 
 <div align="center">
 
-  <img width="49%" src="./profile/stats.svg" alt="GitHub statistics"/>
-  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages"/>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img height="180" src="./profile/stats.svg" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img height="180" src="./profile/top-langs.svg" alt="Most Used Languages" />
+  </a>
 
 <br/><br/>
 
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanksingh2904-ctrl&theme=tokyonight&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanksingh2904-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Contribution Streak" />
+  </a>
 
 </div>
+
 
 ---
 
