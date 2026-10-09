@@ -150,25 +150,22 @@ A lightweight document Q&A application that searches multiple PDFs and provides 
 
 ## 📈 Contribution Activity
 
-<div align="center">
+## 📈 Contribution Activity
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=071426&color=00D9FF&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=Coding%20%26%20Contribution%20Activity" alt="Contribution activity graph"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+## 🐍 Contribution Snake
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg"/>
-    <img width="100%" src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg" alt="GitHub contribution snake"/>
-  </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake-dark.svg" alt="GitHub contribution snake" width="95%">
+</p>
 
-</div>
 
 ---
 
