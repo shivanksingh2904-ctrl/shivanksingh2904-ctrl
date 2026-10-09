@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Shivank Singh 👋
 
-<!--
-**shivanksingh2904-ctrl/shivanksingh2904-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student and aspiring **Software Development Engineer (SDE)** passionate about building practical software solutions.
 
-Here are some ideas to get you started:
+💻 **Technical Skills:** Python, SQL, MySQL, Pandas, REST APIs, SQLite, and Streamlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects:** Developing real-world applications such as PantryPulse (Food Waste Management System), REST API Data Management System, and Employee Management System.
+
+📚 Currently strengthening my problem-solving skills, Python development, SQL, and Data Structures & Algorithms while exploring AI and Generative AI.
+
+🎯 **Career Goal:** Seeking entry-level opportunities as a Python Developer or Software Engineer where I can contribute to meaningful projects, learn from experienced professionals, and grow as a developer.
+
+🤝 Open to opportunities, collaboration, and learning.
