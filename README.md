@@ -148,26 +148,6 @@ A lightweight document Q&A application that searches multiple PDFs and provides 
 
 ---
 
-## 📈 Contribution Activity
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake-dark.svg" alt="GitHub contribution snake" width="95%">
-</p>
-
-
----
 
 ## 🎬 Coding Mode
 
