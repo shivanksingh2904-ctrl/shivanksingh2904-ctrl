@@ -1,22 +1,17 @@
-<!-- =========================================================
-     SHIVANK SINGH | DARK NAVY + CYAN GITHUB PROFILE
-     Profile: shivanksingh2904-ctrl
-========================================================== -->
-
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,50:0B2545,100:00D9FF&text=SHIVANK%20SINGH&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20ASPIRING%20SDE&descSize=17&descAlignY=58&animation=fadeIn" alt="Shivank Singh navy and cyan developer banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071426,50:0B2545,100:00D9FF&text=SHIVANK%20SINGH&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=PYTHON%20%7C%20SQL%20%7C%20BACKEND%20DEVELOPMENT&descSize=16&descAlignY=58&animation=fadeIn" alt="Shivank Singh developer banner"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Backend+Development;Building+Practical+Software+Projects;Exploring+FastAPI+and+Generative+AI;Learn.+Build.+Improve." alt="Animated developer tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Developer+%7C+Aspiring+SDE;SQL+%7C+FastAPI+%7C+REST+APIs;Building+Practical+Software+Projects;Learning+%7C+Building+%7C+Improving" alt="Animated developer tagline"/>
 
   <p>
     <a href="https://github.com/shivanksingh2904-ctrl">
-      <img src="https://img.shields.io/badge/GitHub-Profile-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile"/>
+      <img src="https://img.shields.io/badge/GitHub-Profile-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
     </a>
     <a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore-Projects-063B50?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore projects"/>
+      <img src="https://img.shields.io/badge/Explore-Projects-063B50?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Projects"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&style=for-the-badge&color=00BCD4&label=PROFILE+VIEWS" alt="Profile view counter"/>
+    <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&style=for-the-badge&color=00BCD4&label=PROFILE+VIEWS" alt="Profile views"/>
   </p>
 
 </div>
@@ -25,60 +20,67 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Shivank Singh**, a Computer Science Engineering student interested in Python development, backend engineering, databases, and AI-powered applications.
+I'm a Computer Science Engineering student focused on building practical applications and strengthening my software engineering fundamentals.
 
-* 🐍 Focused on Python programming and problem-solving
-* 🗄️ Practicing SQL, MySQL, and database concepts
-* ⚡ Exploring backend development with FastAPI and REST APIs
-* 🤖 Interested in Generative AI and practical AI applications
-* 🚀 Built **PantryPulse** and **DocuMind**
-* 🎯 Career goal: Python Developer or Software Development Engineer
-* 🤝 Interested in collaborating on useful software projects
+* 🐍 **Programming:** Python
+* 🗄️ **Databases:** SQL, MySQL, SQLite
+* ⚡ **Backend:** Learning FastAPI, REST APIs, and backend development
+* 📊 **Data tools:** Pandas and JSON processing
+* 🤖 **Interests:** Generative AI and AI-powered applications
+* 🚀 **Projects:** PantryPulse and DocuMind
+* 🎯 **Career goal:** Python Developer / Software Development Engineer
+* 🤝 **Open to:** Entry-level opportunities and project collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### 💻 Programming & Query Languages
+### Programming & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL icons"/>
-  <img src="https://img.shields.io/badge/SQL-Queries%20%26%20Joins-00BCD4?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JSON-Data%20Exchange-0B2545?style=for-the-badge&logo=json&logoColor=00D9FF" alt="JSON"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite&theme=dark" alt="Python, MySQL, SQLite"/>
+  <img src="https://img.shields.io/badge/SQL-Joins%20%7C%20Subqueries-00BCD4?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JSON-Data%20Processing-0B2545?style=for-the-badge&logo=json&logoColor=00D9FF" alt="JSON"/>
 </p>
 
-### ⚙️ Backend & Application Development
+### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,git,github,vscode&theme=dark" alt="FastAPI, Flask, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI and Flask"/>
   <img src="https://img.shields.io/badge/REST%20APIs-Integration-007C91?style=for-the-badge" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Streamlit-App%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
-### 📊 Data & Storage
+### Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/BM25-Information%20Retrieval-0B2545?style=for-the-badge" alt="BM25 retrieval"/>
+  <img src="https://img.shields.io/badge/BM25-Information%20Retrieval-0B2545?style=for-the-badge" alt="BM25"/>
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-8E75B2?style=for-the-badge" alt="Generative AI"/>
 </p>
 
-> **Note:** Keep FastAPI, Flask, and NumPy here only if you're comfortable explaining them or are actively learning them. Your featured projects use the stacks listed in their descriptions below.
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🥬 PantryPulse — Grocery & Food Waste Management
-
 <div align="center">
+
   <a href="https://github.com/shivanksingh2904-ctrl/PantryPulse">
-    <img width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivanksingh2904-ctrl&repo=PantryPulse&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" alt="PantryPulse repository card"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:071426,100:007F95&text=🥬%20PantryPulse&fontColor=FFFFFF&fontSize=30" alt="PantryPulse project banner"/>
   </a>
+
 </div>
 
-A grocery management application built to help users track groceries, monitor expiry dates, and reduce food waste.
+### 🥬 PantryPulse — Grocery & Food Waste Management
+
+A grocery management application that helps users track grocery items, monitor expiry dates, and reduce food waste.
 
 **Tech stack:** Python · Streamlit · Pandas · SQLite
 
@@ -86,44 +88,46 @@ A grocery management application built to help users track groceries, monitor ex
 * 🍲 Recommend recipes based on available ingredients.
 * ⏰ Support expiry monitoring and email alerts.
 * 📊 Analyze food waste, grocery value at risk, and usage trends.
-* 🔎 Handle ingredient aliases such as *dahi* and *yogurt* in recommendations.
+* 🔎 Handle ingredient aliases such as *dahi* and *yogurt*.
 
 <p>
   <a href="https://github.com/shivanksingh2904-ctrl/PantryPulse">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="PantryPulse source code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="PantryPulse source"/>
   </a>
   <a href="https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-00A88F?style=for-the-badge&logo=streamlit&logoColor=white" alt="PantryPulse live demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-008F83?style=for-the-badge&logo=streamlit&logoColor=white" alt="PantryPulse live demo"/>
   </a>
 </p>
 
 ---
 
-### 📄 DocuMind — PDF Question Answering Assistant
-
 <div align="center">
+
   <a href="https://github.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl-DocuMind">
-    <img width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivanksingh2904-ctrl&repo=shivanksingh2904-ctrl-DocuMind&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" alt="DocuMind repository card"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:071426,100:006B9B&text=📄%20DocuMind&fontColor=FFFFFF&fontSize=30" alt="DocuMind project banner"/>
   </a>
+
 </div>
 
-A lightweight document question-answering application that lets users upload multiple PDFs, ask questions, and find answers with source file names and page citations.
+### 📄 DocuMind — PDF Question Answering Assistant
+
+A lightweight document Q&A application that searches multiple PDFs and provides answers with source file names and page citations.
 
 **Tech stack:** Python · Streamlit · pypdf · BM25 · Anthropic API (optional)
 
-* 📚 Upload and search across multiple PDF documents.
+* 📚 Upload and search across multiple PDFs.
 * 🔎 Retrieve relevant passages using BM25 keyword-based search.
-* 📌 Provide source file names and page numbers.
-* 🤖 Generate AI-assisted answers with Claude when configured.
+* 📌 Show source file names and page numbers.
+* 🤖 Support AI-generated answers using Claude when configured.
 * ⚙️ Fall back to extractive answers when an API key is unavailable.
-* 🔐 Keep uploaded PDFs in memory instead of permanently storing them.
+* 🔐 Keep uploaded PDFs in memory rather than permanently storing them.
 
 <p>
   <a href="https://github.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl-DocuMind">
-    <img src="https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="DocuMind source code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="DocuMind source"/>
   </a>
   <a href="https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-00A88F?style=for-the-badge&logo=streamlit&logoColor=white" alt="DocuMind live demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-008F83?style=for-the-badge&logo=streamlit&logoColor=white" alt="DocuMind live demo"/>
   </a>
 </p>
 
@@ -133,9 +137,8 @@ A lightweight document question-answering application that lets users upload mul
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivanksingh2904-ctrl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&rank_icon=github" alt="GitHub statistics"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanksingh2904-ctrl&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top programming languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="GitHub statistics"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages"/>
 
 <br/><br/>
 
@@ -149,7 +152,7 @@ A lightweight document question-answering application that lets users upload mul
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=071426&color=00D9FF&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=Coding%20%26%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=071426&color=00D9FF&line=00BCD4&point=FFFFFF&area=true&hide_border=true&custom_title=Coding%20%26%20Contribution%20Activity" alt="Contribution activity graph"/>
 
 </div>
 
@@ -162,7 +165,7 @@ A lightweight document question-answering application that lets users upload mul
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg"/>
-    <img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg" alt="GitHub contribution snake"/>
   </picture>
 
 </div>
@@ -173,7 +176,7 @@ A lightweight document question-answering application that lets users upload mul
 
 <div align="center">
 
-  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
 
   <p><i>Write code. Solve problems. Learn something new every day.</i></p>
 
@@ -183,12 +186,12 @@ A lightweight document question-answering application that lets users upload mul
 
 ## 🎯 Currently Improving
 
-* 🐍 Python programming, functions, and clean code
-* 🧩 Data Structures & Algorithms
-* 🗄️ SQL joins, subqueries, and database design
-* ⚡ Backend development with FastAPI
-* 🔌 REST API development and integration
-* 🤖 Generative AI and LLM-powered applications
+* Python programming, functions, and clean code
+* Data Structures & Algorithms
+* SQL joins, subqueries, and database design
+* FastAPI and backend development
+* REST API design and integration
+* Generative AI and LLM-powered applications
 
 ---
 
@@ -199,18 +202,14 @@ A lightweight document question-answering application that lets users upload mul
   <a href="https://github.com/shivanksingh2904-ctrl">
     <img src="https://img.shields.io/badge/GitHub-Follow-0B2545?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
   </a>
-  <!-- Replace the URL below with your real LinkedIn profile. -->
+  <!-- Replace this with your actual LinkedIn profile URL. -->
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Replace with your public contact email if you want to display it. -->
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00BCD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 <br/><br/>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D9FF,50:0B2545,100:071426" alt="Navy and cyan footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,50:0B2545,100:071426" width="100%" alt="Navy and cyan footer"/>
 
 <b>Thanks for visiting my profile! ⭐</b>
 
