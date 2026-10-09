@@ -1,56 +1,74 @@
 # 👋 Hi, I'm Shivank Singh
 
-### 💻 Aspiring Software Development Engineer | Python Developer | Open to Opportunities
+### 🐍 Python Developer | Aspiring Software Development Engineer (SDE)
 
-🎓 Computer Science Engineering Student · 🐍 Python · 🗄️ SQL · 🚀 Building Real-World Projects
+I’m a Computer Science Engineering student passionate about building practical software solutions using Python, data processing, and AI-powered tools. I enjoy solving problems, learning new technologies, and turning ideas into working applications.
 
-I'm an aspiring software developer passionate about problem-solving, building practical applications, and continuous learning. I enjoy developing Python-based applications, working with databases and APIs, and exploring AI-powered solutions.
-
-🎯 **Career Goal:** To start my career as a Python Developer or Software Development Engineer and contribute to impactful software projects.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shivanksingh2904-ctrl?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🔭 Building practical applications using Python and Streamlit.
-* 🌱 Learning Data Structures & Algorithms, SQL, backend development, and Generative AI.
-* 🧠 Interested in software engineering, data processing, and intelligent applications.
-* 🥬 Built **PantryPulse**, a food waste management application.
-* 📄 Built **DocuMind**, a PDF question-answering application with source citations.
-* 🤝 Open to collaboration, learning opportunities, and entry-level software roles.
-* 🎯 Dream company: Google.
+* 🔭 **Currently building:** Python-based applications and practical projects
+* 🌱 **Learning:** Data Structures & Algorithms, backend development, and Generative AI
+* 💻 **Interested in:** Python Development, Software Engineering, APIs, and AI applications
+* 🎯 **Goal:** Start my career as a Software Developer and contribute to impactful products
+* 🤝 **Open to:** Entry-level opportunities and collaboration on interesting projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode" alt="Python, MySQL, SQLite, Git, GitHub, and VS Code" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-App%20Development-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Integration-008080?style=for-the-badge" alt="REST APIs" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🥬 1. PantryPulse — Grocery & Food Waste Management
+
+A Python application designed to help users manage groceries, monitor expiry dates, and reduce food waste.
+
+**Tech Stack:** Python · Streamlit · Pandas · SQLite
+
+* 🛒 Track groceries, expiry dates, and prices.
+* 🍲 Recommend recipes using available ingredients.
+* ⏰ Monitor expiry dates and support email alerts.
+* 📊 Analyze food waste, grocery value at risk, and usage trends.
+* 🧠 Handle ingredient aliases such as *dahi* and *yogurt* in recommendations.
+
+**[📂 Source Code](https://github.com/shivanksingh2904-ctrl/PantryPulse)** · **[🌐 Live Demo](https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/)**
+
+### 📄 2. DocuMind — PDF Question Answering Assistant
+
+A lightweight document Q&A application that lets users upload multiple PDFs, ask questions, and receive answers with source file names and page citations.
+
+**Tech Stack:** Python · Streamlit · pypdf · BM25 · Anthropic API (optional)
+
+* 📚 Upload and search across multiple PDF documents.
+* 🔎 Retrieve relevant passages using BM25 keyword-based search.
+* 📌 Display source file names and page numbers for answers.
+* 🤖 Support optional AI-generated answers using Claude.
+* ⚙️ Provide an extractive fallback when an AI API key is unavailable.
+* 🔐 Process uploaded documents in memory rather than permanently storing them.
+
+**[📂 Source Code](https://github.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl-DocuMind)** · **[🌐 Live Demo](https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/)**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivanksingh2904-ctrl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanksingh2904-ctrl&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivanksingh2904-ctrl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanksingh2904-ctrl&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanksingh2904-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanksingh2904-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -58,79 +76,48 @@ I'm an aspiring software developer passionate about problem-solving, building pr
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=My%20Coding%20Activity" alt="GitHub contribution activity graph" />
 </p>
-
----
-
-## 💡 Featured Projects
-
-### 🥬 1. PantryPulse — Food Waste Management System
-
-**Tech Stack:** Python · Streamlit · Pandas · SQLite
-
-A grocery management application designed to help households reduce food waste and save money.
-
-* 🛒 Tracks groceries, prices, and expiry dates.
-* 🍲 Recommends recipes using ingredients that are nearing expiry.
-* 📊 Analyzes food waste, usage trends, and value at risk.
-* 📧 Provides email alerts for items approaching expiry.
-
-🌐 **[Live Demo](https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/)**
-💻 **[Source Code](https://github.com/shivanksingh2904-ctrl/PantryPulse)**
-
-### 📄 2. DocuMind — PDF Question-Answering Assistant
-
-**Tech Stack:** Python · Streamlit · pypdf · BM25 · Anthropic API (optional)
-
-A document question-answering application that lets users upload PDFs, ask questions, and find answers with source file and page references.
-
-* 📚 Supports multiple PDF documents in one session.
-* 🔎 Uses BM25 keyword-based retrieval to find relevant passages.
-* 📌 Provides source passages with document names and page numbers.
-* 🤖 Supports optional AI-generated answers using the Anthropic API.
-* 🛡️ Falls back to extractive answers when AI is unavailable.
-
-🌐 **[Live Demo](https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/)**
-💻 **[Source Code](https://github.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl-DocuMind)**
-
----
-
-## 🎯 Current Learning Goals
-
-* [ ] Strengthen Python, OOP, and exception handling.
-* [ ] Practice Data Structures & Algorithms.
-* [ ] Improve SQL, joins, subqueries, and database design.
-* [ ] Build backend applications and REST APIs.
-* [ ] Explore AI and Generative AI applications.
-* [ ] Contribute to open-source projects.
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-snake.svg" />
+  </picture>
 </p>
+
+---
+
+## 🎯 Current Learning Goals
+
+* 📘 Strengthen Python programming and problem-solving skills.
+* 🧩 Practice Data Structures & Algorithms.
+* 🗄️ Improve SQL and database design knowledge.
+* 🔌 Build reliable applications and work with REST APIs.
+* 🤖 Explore AI, LLMs, and Generative AI application development.
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/shivanksingh2904-ctrl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <!-- Replace the placeholder below with your actual LinkedIn URL -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-📧 **Email:** YOUR_EMAIL_ADDRESS
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
-  <b>💡 Learn consistently. Build meaningful projects. Improve every day.</b>
+  <b>💡 Learn continuously. Build consistently. Improve every day.</b>
 </p>
