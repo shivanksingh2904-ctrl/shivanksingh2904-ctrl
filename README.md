@@ -36,8 +36,6 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&style=flat-square&color=42E8C5&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
