@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Shivank Singh | Python Developer and Aspiring Software Engineer">
+<img src="https://tech.eu/2024/06/20/study-shows-that-software-developers-will-use-ai-assistants-by-2028/">
 
 <h1>Hey, I'm Shivank Singh 👋</h1>
 
@@ -89,6 +89,7 @@ A place for my document/AI project work. Browse my repositories for the current 
 
 <p><b>Focus</b><br>Python · AI concepts · Information retrieval</p>
 
+<a href="https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/"><b>↗ Open live app</b></a><br>
 <a href="https://github.com/shivanksingh2904-ctrl?tab=repositories"><b>↗ Explore repositories</b></a>
 
 </td>
