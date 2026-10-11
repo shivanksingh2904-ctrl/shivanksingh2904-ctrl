@@ -1,192 +1,224 @@
+<!--
+  SHIVANK SINGH — GitHub Profile README
+  Save this file as README.md in:
+  https://github.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl
+
+  This is a single-file README: images are remotely hosted, so no assets folder is required.
+  GitHub README files do not run custom JavaScript; supported interactions include links,
+  badges, collapsible sections, and Mermaid diagrams.
+-->
+
 <div align="center">
 
-https://cdn.tech.eu/uploads/2024/06/developer-ai-349.png
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B5D,100:42E8C5&height=210&section=header&text=SHIVANK%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descAlignY=60"
+    alt="Shivank Singh — Python Developer and Aspiring Software Engineer"
+    width="100%"
+  />
 
-<h1>Hey, I'm Shivank Singh 👋</h1>
+  <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1000&color=42E8C5&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+FastAPI;Building+useful%2C+data-driven+applications;Learning+every+day.+Building+with+purpose."
+     target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1000&color=42E8C5&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+FastAPI;Building+useful%2C+data-driven+applications;Learning+every+day.+Building+with+purpose."
+      alt="Animated typing text: Python, SQL, FastAPI, data-driven applications"
+    />
+  </a>
 
-<p><b>Python Developer · Aspiring Software Engineer · AI & Backend Enthusiast</b></p>
+  <p>
+    <a href="https://github.com/shivanksingh2904-ctrl">
+      <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+    <a href="https://linkedin.com/in/shivank-singh-79ab10256">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    </a>
+    <a href="mailto:shivanksingh2904@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shivank" />
+    </a>
+  </p>
 
-<p>
-  <a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">⌘ Explore Projects</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/shivank-singh-79ab10256">↗ LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:shivanksingh2904@gmail.com">✉ Contact Me</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=shivanksingh2904-ctrl&style=flat-square&color=42E8C5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## `01 / About me`
+## 👋 About Me
 
-I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) who enjoys building useful applications with Python, SQL, APIs, and AI tools. I focus on learning fundamentals properly and turning ideas into working projects.
+I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) focused on Python development, backend fundamentals, databases, and practical software projects.
+
+- 🐍 **Focus:** Python, SQL, REST APIs, and FastAPI
+- 🧠 **Currently improving:** coding logic, problem-solving, and SQL
+- 🛠️ **Build style:** practical projects that solve everyday problems
+- 🎯 **Career goal:** Python Developer / Software Development Engineer
+- 🤝 **Open to:** entry-level opportunities, collaboration, and learning from developers
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-| 🐍 Main focus | ⚙️ Building with | 🎯 Current goal |
-|:---:|:---:|:---:|
-| Python + SQL | APIs, data apps, AI | Software Engineer |
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,mysql,html,css,js,git,github,vscode&theme=dark"
+    alt="Technology icons for Python, FastAPI, MySQL, HTML, CSS, JavaScript, Git, GitHub and VS Code"
+    width="100%"
+  />
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </p>
 
 </div>
 
-<details>
-<summary><b>More about my technical interests</b></summary>
+## 🚀 Featured Projects
 
-- Python problem-solving, clean code, and debugging
-- SQL queries, relational data, and CRUD operations
-- FastAPI and REST API fundamentals
-- Data processing with Pandas and Streamlit applications
-- AI/ML and GenAI-powered project ideas
-- Git, GitHub, documentation, and deployment basics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥬 PantryPulse</h3>
+      <p>Track household food items, use-by dates, and value at risk. Prioritize what to use next and discover recipe ideas for food nearing expiry.</p>
+      <p>
+        <a href="https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-42E8C5?style=for-the-badge&logo=streamlit&logoColor=07111F" alt="Open PantryPulse live demo" />
+        </a>
+      </p>
+      <p><sub>Focus: Python · Streamlit · Data-driven problem solving</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 DocuMind</h3>
+      <p>A document-focused project. Open my repositories to find the current source code and project details.</p>
+      <p>
+        <a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">
+          <img src="https://img.shields.io/badge/Find%20Repository-View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find DocuMind repository on GitHub" />
+        </a>
+      </p>
+      <p><sub>Open the repository link to verify its current implementation and stack.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 REST API Data Management System</h3>
+      <p>A Python project focused on managing data through REST API concepts, JSON, and database integration.</p>
+      <p><a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">Browse repositories →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 Employee Management System</h3>
+      <p>A CRUD-oriented application for creating, searching, updating, and deleting employee records, with input validation.</p>
+      <p><a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">Browse repositories →</a></p>
+    </td>
+  </tr>
+</table>
+
+## 💼 Experience
+
+<details>
+  <summary><strong>Artificial Intelligence Intern — Codec Technologies</strong> · Online · Jun 2025 – Jul 2025</summary>
+
+  - Worked on project-based AI learning and practical tasks.
+  - Explored machine-learning techniques and research approaches.
+  - Practiced data preprocessing and model evaluation.
+  - Gained exposure to AI deployment tasks under industry mentorship.
 
 </details>
 
-## `02 / Developer dashboard`
+<details>
+  <summary><strong>Data Analyst Intern — Geeks of Gurukul</strong></summary>
+
+  - Use this section to highlight the data analysis work, tools, and project outcomes completed during the internship.
+  - Add specific tools, datasets, dashboards, or measurable results only when you can verify them.
+
+</details>
+
+<details>
+  <summary><strong>Web Development Intern — CodeAlpha</strong></summary>
+
+  - Practiced building responsive websites with HTML, CSS, and JavaScript.
+  - Worked on portfolio and landing-page style projects and a basic CRUD application.
+  - Used Git and GitHub to manage project work.
+
+</details>
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanksingh2904-ctrl&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" height="165" alt="GitHub stats">
-</a>
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanksingh2904-ctrl&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0&langs_count=6" height="165" alt="Top languages">
-</a>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=shivanksingh2904-ctrl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42E8C5&icon_color=8B5CF6&text_color=E5E7EB"
+      height="165"
+      alt="GitHub statistics for Shivank Singh"
+    />
+  </a>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanksingh2904-ctrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=42E8C5&text_color=E5E7EB"
+      height="165"
+      alt="Most-used public repository languages"
+    />
+  </a>
 
-<img src="assets/activity-graph.svg" width="100%" alt="Recent public GitHub events graph">
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=shivanksingh2904-ctrl&theme=dark&hide_border=true&background=0D1117&ring=42E8C5&fire=8B5CF6&currStreakLabel=42E8C5"
+      width="70%"
+      alt="GitHub contribution streak"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=0D1117&color=E5E7EB&line=42E8C5&point=8B5CF6&area=true&hide_border=true"
+      width="100%"
+      alt="GitHub public activity graph"
+    />
+  </a>
 
 </div>
 
-> The activity chart is generated from GitHub's public events feed and updates through GitHub Actions. Public events are not a complete count of all contribution activity.
+> Note: GitHub statistics and activity cards are provided by third-party services. They may load slowly, be rate-limited, or be temporarily unavailable. Your GitHub profile and repositories remain accessible if a card fails.
 
-## `03 / Featured builds`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🥫 PantryPulse</h3>
-
-**Waste less food. Save more money.**
-
-A Streamlit app for tracking food items, prices, and use-by dates, prioritizing what to use next, estimating value at risk, and suggesting recipes for items nearing expiry.
-
-<p><b>Stack</b><br>Python · Streamlit · Data handling</p>
-
-<a href="https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/"><b>↗ Open live app</b></a><br>
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">Browse source repositories ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 DocuMind</h3>
-
-**Document-focused AI project**
-
-A place for my document/AI project work. Browse my repositories for the current implementation, source files, and setup instructions.
-
-<p><b>Focus</b><br>Python · AI concepts · Information retrieval</p>
-
-<a href="https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/"><b>↗ Open live app</b></a><br>
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories"><b>↗ Browse source repositories</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔌 REST API Data Management</h3>
-
-A Python project focused on structured data handling and CRUD-style API workflows.
-
-<p><b>Stack</b><br>Python · REST API · JSON · MySQL</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>👥 Employee Management System</h3>
-
-A CRUD application to add, search, update, and delete employee records with input validation.
-
-<p><b>Stack</b><br>Python · MySQL</p>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🧭 My project workflow — expand</b></summary>
+## 🧭 How I Build
 
 ```mermaid
 flowchart LR
-    A([Problem]) --> B[Plan]
-    B --> C[Build]
-    C --> D[Test]
-    D --> E{Works?}
-    E -- No --> F[Debug]
-    F --> C
-    E -- Yes --> G[Document]
-    G --> H([Improve])
-    classDef start fill:#0b1220,stroke:#67e8f9,color:#f8fafc,stroke-width:2px;
-    classDef task fill:#171b35,stroke:#a78bfa,color:#f8fafc;
-    class A,H start;
-    class B,C,D,E,F,G task;
+    A[Understand the problem] --> B[Plan the solution]
+    B --> C[Build with Python]
+    C --> D[Store and query data]
+    D --> E[Test and improve]
+    E --> F[Document and share]
 ```
 
-</details>
+## 🎓 Education
 
-## `04 / Tech stack`
+**B.Tech — Computer Science and Engineering**  
+2022–2026
 
-<div align="center">
-
-```html
-<img src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/main/assets/tech-stack.svg" width="100%" alt="Technology stack: Python, SQL, FastAPI, HTML, CSS, JavaScript, Git and GitHub">
-```
-
-
-</div>
-
-| Area | Skills |
-|---|---|
-| Programming | Python, C++ fundamentals |
-| Databases | SQL, MySQL, CRUD |
-| Backend | REST APIs, FastAPI fundamentals |
-| Data & AI | Pandas, Streamlit, AI/ML fundamentals |
-| Web | HTML, CSS, JavaScript fundamentals |
-| Tools | Git, GitHub, VS Code |
-
-## `05 / Learning in public`
-
-<details>
-<summary><b>My current roadmap</b></summary>
-
-- [ ] Practice Python lists, loops, conditions, functions, and dictionaries
-- [ ] Improve SQL with joins, GROUP BY, and subqueries
-- [ ] Build and test APIs using FastAPI
-- [ ] Improve debugging, validation, and edge-case handling
-- [ ] Learn Linux commands, logging, and deployment
-- [ ] Keep each project README complete and reproducible
-
-</details>
-
-## `06 / Contribution animation`
-
-The snake animation is generated by the included GitHub Actions workflow. It appears once the workflow has run and published the `output` branch.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation">
-</div>
-
-## `07 / Connect`
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shivank-singh-79ab10256"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:shivanksingh2904@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"></a>
+  <a href="mailto:shivanksingh2904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shivanksingh2904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shivank" />
+  </a>
+  <a href="https://linkedin.com/in/shivank-singh-79ab10256">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivank%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/shivanksingh2904-ctrl">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
 
-<p><i>Thanks for stopping by — let's build something useful.</i></p>
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:42E8C5,100:07111F&height=110&section=footer"
+    width="100%"
+    alt="Decorative footer banner"
+  />
 
 </div>
