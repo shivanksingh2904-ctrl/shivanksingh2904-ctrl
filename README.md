@@ -90,7 +90,7 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) focused on
       <h3>📄 DocuMind</h3>
       <p>A document-focused project. Open my repositories to find the current source code and project details.</p>
       <p>
-        <a href="https://github.com/shivanksingh2904-ctrl?tab=repositories">
+        <a href=" https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/>
           <img src="https://img.shields.io/badge/Find%20Repository-View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find DocuMind repository on GitHub" />
         </a>
       </p>
