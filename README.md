@@ -172,11 +172,7 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) focused on
   <br/>
 
   <a href="https://github.com/shivanksingh2904-ctrl">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=shivanksingh2904-ctrl&bg_color=0D1117&color=E5E7EB&line=42E8C5&point=8B5CF6&area=true&hide_border=true"
-      width="100%"
-      alt="GitHub public activity graph"
-    />
+    
   </a>
 
 </div>
