@@ -88,13 +88,13 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) focused on
     </td>
     <td width="50%" valign="top">
       <h3>📄 DocuMind</h3>
-      <p>A document-focused project. Open my repositories to find the current source code and project details.</p>
+      <p>A document-focused project. Try the live app to explore the current deployment.</p>
       <p>
-        <a href=" https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/>
-          <img src="https://img.shields.io/badge/Find%20Repository-View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Find DocuMind repository on GitHub" />
+        <a href="https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Open%20DocuMind-42E8C5?style=for-the-badge&logo=streamlit&logoColor=07111F" alt="Open DocuMind live demo" />
         </a>
       </p>
-      <p><sub>Open the repository link to verify its current implementation and stack.</sub></p>
+      <p><sub>Open the deployed Streamlit app.</sub></p>
     </td>
   </tr>
   <tr>
