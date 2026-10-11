@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tech.eu/2024/06/20/study-shows-that-software-developers-will-use-ai-assistants-by-2028/">
+https://cdn.tech.eu/uploads/2024/06/developer-ai-349.png
 
 <h1>Hey, I'm Shivank Singh 👋</h1>
 
@@ -90,7 +90,7 @@ A place for my document/AI project work. Browse my repositories for the current 
 <p><b>Focus</b><br>Python · AI concepts · Information retrieval</p>
 
 <a href="https://shivanksingh2904-ctrl-documind-6yl7xfnqwas8appvbwgaqk5.streamlit.app/"><b>↗ Open live app</b></a><br>
-<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories"><b>↗ Explore repositories</b></a>
+<a href="https://github.com/shivanksingh2904-ctrl?tab=repositories"><b>↗ Browse source repositories</b></a>
 
 </td>
 </tr>
@@ -141,7 +141,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="assets/tech-stack.svg" width="100%" alt="Technology stack: Python, SQL, FastAPI, HTML, CSS, JavaScript, Git and GitHub">
+```html
+<img src="https://raw.githubusercontent.com/shivanksingh2904-ctrl/shivanksingh2904-ctrl/main/assets/tech-stack.svg" width="100%" alt="Technology stack: Python, SQL, FastAPI, HTML, CSS, JavaScript, Git and GitHub">
+```
+
 
 </div>
 
