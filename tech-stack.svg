@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150" role="img" aria-labelledby="t d">
+<title id="t">Technology stack</title><desc id="d">Stylized local SVG chips for Python, SQL, FastAPI, HTML, CSS, JavaScript, Git and GitHub.</desc>
+<rect width="1100" height="150" rx="18" fill="#0B1220" stroke="#263449"/>
+<g font-family="Arial,sans-serif" font-weight="700" text-anchor="middle">
+<g><rect x="20" y="26" width="122" height="44" rx="12" fill="#132C46" stroke="#3776AB"/><text x="81" y="54" font-size="16" fill="#BAE6FD">Python</text></g>
+<g><rect x="155" y="26" width="112" height="44" rx="12" fill="#132C46" stroke="#38BDF8"/><text x="211" y="54" font-size="16" fill="#BAE6FD">SQL</text></g>
+<g><rect x="280" y="26" width="132" height="44" rx="12" fill="#20163B" stroke="#A78BFA"/><text x="346" y="54" font-size="16" fill="#DDD6FE">FastAPI</text></g>
+<g><rect x="425" y="26" width="112" height="44" rx="12" fill="#30220E" stroke="#F97316"/><text x="481" y="54" font-size="16" fill="#FED7AA">HTML</text></g>
+<g><rect x="550" y="26" width="102" height="44" rx="12" fill="#132C46" stroke="#38BDF8"/><text x="601" y="54" font-size="16" fill="#BAE6FD">CSS</text></g>
+<g><rect x="665" y="26" width="145" height="44" rx="12" fill="#30220E" stroke="#FACC15"/><text x="737" y="54" font-size="16" fill="#FEF08A">JavaScript</text></g>
+<g><rect x="823" y="26" width="100" height="44" rx="12" fill="#1B2335" stroke="#94A3B8"/><text x="873" y="54" font-size="16" fill="#E2E8F0">Git</text></g>
+<g><rect x="936" y="26" width="144" height="44" rx="12" fill="#1B2335" stroke="#94A3B8"/><text x="1008" y="54" font-size="16" fill="#E2E8F0">GitHub</text></g>
+</g>
+<text x="550" y="112" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" fill="#94A3B8">TOOLS I USE AND CONCEPTS I AM BUILDING</text>
+</svg>

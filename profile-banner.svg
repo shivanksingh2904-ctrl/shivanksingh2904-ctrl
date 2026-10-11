@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Shivank Singh developer banner</title>
+<desc id="desc">Original dark navy and electric cyan banner with violet orbit and animated dots.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B18"/><stop offset=".55" stop-color="#11182D"/><stop offset="1" stop-color="#25123B"/></linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".1"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<circle cx="1000" cy="160" r="122" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
+<circle cx="1000" cy="160" r="88" fill="none" stroke="#A78BFA" stroke-opacity=".55" stroke-dasharray="7 12">
+  <animateTransform attributeName="transform" type="rotate" from="0 1000 160" to="360 1000 160" dur="32s" repeatCount="indefinite"/>
+</circle>
+<path d="M840 240 Q1000 5 1160 240" fill="none" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="8 10">
+  <animate attributeName="stroke-dashoffset" values="0;-72" dur="5s" repeatCount="indefinite"/>
+</path>
+<circle cx="900" cy="85" r="5" fill="#67E8F9"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="1090" cy="205" r="5" fill="#C4B5FD"><animate attributeName="r" values="4;7;4" dur="2.7s" repeatCount="indefinite"/></circle>
+<text x="68" y="74" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" font-weight="700" fill="#67E8F9">PYTHON · BACKEND · AI</text>
+<text x="64" y="142" font-family="Arial,sans-serif" font-size="53" font-weight="800" fill="#F8FAFC">SHIVANK SINGH</text>
+<text x="68" y="184" font-family="Arial,sans-serif" font-size="22" fill="#CBD5E1">Aspiring Software Engineer</text>
+<rect x="68" y="218" width="335" height="42" rx="21" fill="#0B1220" stroke="#22D3EE" stroke-opacity=".8"/>
+<text x="89" y="245" font-family="Consolas,monospace" font-size="16" fill="#A5F3FC">build() · learn() · repeat()</text>
+</svg>
