@@ -198,6 +198,7 @@ flowchart LR
 
 **B.Tech — Computer Science and Engineering**  
 2022–2026
+CGPA - 7.55
 
 ## 📫 Connect With Me
 
