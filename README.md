@@ -130,7 +130,7 @@ I'm a Computer Science and Engineering graduate (B.Tech, 2022–2026) focused on
 </details>
 
 <details>
-  <summary><strong>Web Development Intern — CodeAlpha</strong></summary>
+  <summary><strong>Web Development Intern — cognifyz</strong></summary>
 
   - Practiced building responsive websites with HTML, CSS, and JavaScript.
   - Worked on portfolio and landing-page style projects and a basic CRUD application.
